@@ -359,3 +359,48 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 }
+
+
+.div-row {
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE10 */
+  flex-wrap: wrap;
+  padding: 0 4px;
+  margin: 0 auto;
+  max-width: 85%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+/* Create two equal columns that sits next to each other */
+.div-column {
+  -ms-flex: 50%; /* IE10 */
+  flex: 50%;
+  max-width: 50%;
+  padding: 50px 50px;
+}
+
+.div-column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 80%;
+}
+
+/* Responsive layout - makes a one column-layout instead of two columns */
+@media screen and (max-width: 800px) {
+  .div-column {
+    -ms-flex: 90%;
+    flex: 90%;
+    max-width: 90%;
+  }
+}
+
+/* Responsive layout - makes the columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .div-column {
+    -ms-flex: 90%;
+    flex: 90%;
+    max-width: 90%;
+  }
+}
