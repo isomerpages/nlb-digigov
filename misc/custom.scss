@@ -377,7 +377,7 @@ $desktop: 960px + (2 * $gap) !default;
 .div-column {
   -ms-flex: 50%; /* IE10 */
   flex: 50%;
-  max-width: 75%;
+  max-width: 100%;
   padding: 50px 50px;
 }
 
