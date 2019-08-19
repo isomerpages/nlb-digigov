@@ -1,5 +1,5 @@
-title: Title
-title-abbreviated: Title
+title: DigiGov
+title-abbreviated: DigiGov
 description: >- # this means to ignore newlines until "baseurl:"
   Description
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -41,8 +41,9 @@ custom_print_css_path: "/assets/css/print.css"
 exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
 
 collections:
-  left-nav-one:
+  who-we-are:
     output: true
-  left-nav-two:
+  digigov-competition:
     output: true
+
 resources_name: resource-room
