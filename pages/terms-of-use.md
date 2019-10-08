@@ -4,7 +4,7 @@ title: Terms of Use
 permalink: /terms-of-use/
 breadcrumb: Terms of Use
 ---
-### **General Terms and Conditions on the Use of Curiocity**
+### **General Terms and Conditions on the Use of DigiGov**
 
 #### **Conditions of Use and Copyright & Disclaimer Statement**
 
