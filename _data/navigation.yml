@@ -4,19 +4,3 @@
 #                                #
 ##################################
 
-- title: Who We Are
-  url: /who-we-are/about-digigov/
-  sub-links:
-  - title: About DigiGov Initiative
-    url: /who-we-are/about-digigov/
-  - title: About NLB
-    url: /who-we-are/about-nlb/
-- title: DigiGov Competition
-  url: /digigov-competition/competition-themes/
-  sub-links:
-  - title: Competition Themes
-    url: /digigov-competition/competition-themes/
-  - title: Call for Proposals
-    url: /digigov-competition/call-for-proposals/
-- title: Contact Us
-  url: /contact-us/
