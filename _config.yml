@@ -42,5 +42,7 @@ collections:
     output: true
   digigov-competition:
     output: true
+  services:
+    output: true
 
 resources_name: resource-room
