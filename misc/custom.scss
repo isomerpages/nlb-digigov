@@ -32,6 +32,14 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
+html{
+  background-color: black;
+}
+
+body{
+  color: white;
+}
+
 // Background
 .bg{
   &-primary{
@@ -235,20 +243,21 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Navbar
 .navbar{
+  background-color: black;
   &-start{
     .navbar-item{
       a{
         &.active{
           @include touch(){
-            border-bottom:2px solid $secondary;
+            border-bottom:0px solid $secondary;
           }
         }
       }
     }
   }
   .navbar-link:hover:after {
-    border-bottom: 1px solid $secondary;
-    border-left: 1px solid $secondary;
+    border-bottom: 0px solid $secondary;
+    border-left: 0px solid $secondary;
   }
 
   .navbar-item{
@@ -263,7 +272,7 @@ $desktop: 960px + (2 * $gap) !default;
     }
     &.active{
       @include desktop(){
-        border-bottom:1px solid $secondary;
+        border-bottom:0px solid $secondary;
       }
     }
   }
