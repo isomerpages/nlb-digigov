@@ -244,6 +244,7 @@ body{
 // Navbar
 .navbar{
   background-color: black;
+  border-bottom: 0px solid $secondary;
   &-start{
     .navbar-item{
       a{
