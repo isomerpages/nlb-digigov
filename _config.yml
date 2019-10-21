@@ -17,7 +17,7 @@ plugins:
 # Breadcrumbs
 breadcrumbs:
   root:
-    hide: false  # show breadcrumbs on root/home page
+    hide: true  # show breadcrumbs on root/home page
     image: false # Show image or title text
 
 # Resource Room and Pagination
