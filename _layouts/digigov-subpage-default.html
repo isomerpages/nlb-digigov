@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en" class="has-navbar-fixed-top-widescreen">
+
+{%- include head.html -%}
+    <body>
+        {%- include bp-agencyhead.html -%}
+        {%- comment -%} onclick is needed for iOS Safari to treat stuff other than <a> tags etc (e.g. div) as clickable {%- endcomment -%}
+        <div id="main-content" onclick>
+        	{{- content -}}
+    	</div>
+    </body>
+	
+	<section class="bp-section bottom-navigation">
+        <div>
+            <a href="{{- site.baseurl -}}" class="is-full is-left">
+				<p class="has-text-weight-semibold"><span class="sgds-icon sgds-icon-arrow-left is-size-4"></span> PREVIOUS </p>
+				<p class="is-hidden-mobile">Back</p>
+			</a>
+        </div>
+	</section>
+	
+</html>
