@@ -52,36 +52,13 @@ layout: digigov-default
   }
 }
 
-ol,li {
-    margin: 0;
-    padding: 0;
-}
-
-ol {
-    counter-reset: foo;
-    display: table;
-}
-
-li {
-    list-style: none;
-    counter-increment: foo;
-    display: table-row;
-}
-
-li::before {
-    content: counter(foo) ".";
-    display: table-cell;
-    text-align: right;
-    padding-right: .3em;
-}
-
 </style>
 
 <div class="div-row">
 	<div class="div-column">
 		<h3>Did you know that you can:</h3>
 		<p/><p/>
-		<ul>
+		<ul style="list-style-type:disc;list-style-position:inside;text-indent:-1.4em;padding-left:3em;">
 			<li>Borrow books without having to queue?</li>
 			<li>Look up your child’s upcoming immunisation?</li>
 			<li>Locate the nearest car park and its parking rates?</li>
