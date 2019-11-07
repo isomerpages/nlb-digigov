@@ -52,11 +52,27 @@ layout: digigov-default
   }
 }
 
+ol,li {
+    margin: 0;
+    padding: 0;
+}
+
+ol {
+    counter-reset: foo;
+    display: table;
+}
+
 li {
-    list-style-type: disc;
-    list-style-position: inside;
-    text-indent: -1em;
-    padding-left: 1em;
+    list-style: none;
+    counter-increment: foo;
+    display: table-row;
+}
+
+li::before {
+    content: counter(foo) ".";
+    display: table-cell;
+    text-align: right;
+    padding-right: .3em;
 }
 
 </style>
