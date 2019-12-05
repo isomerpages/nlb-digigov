@@ -5,8 +5,8 @@
 @charset "utf-8";
 
 // HLB brand colors
-$primary: #6031b6;
-$secondary: #4372d6;
+$primary: #c0392b;
+$secondary: #e74c3c;
 $secondary-hover: lighten($secondary, 10%);
 
 $media-color-one: #49759a;
@@ -30,6 +30,14 @@ $desktop: 960px + (2 * $gap) !default;
 	@media screen and (min-width: $desktop){
     	@content
 	}
+}
+
+html{
+  background-color: black;
+}
+
+body{
+  color: white;
 }
 
 // Background
@@ -235,20 +243,22 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Navbar
 .navbar{
+  background-color: black;
+  border-bottom: 0px solid $secondary;
   &-start{
     .navbar-item{
       a{
         &.active{
           @include touch(){
-            border-bottom:2px solid $secondary;
+            border-bottom:0px solid $secondary;
           }
         }
       }
     }
   }
   .navbar-link:hover:after {
-    border-bottom: 1px solid $secondary;
-    border-left: 1px solid $secondary;
+    border-bottom: 0px solid $secondary;
+    border-left: 0px solid $secondary;
   }
 
   .navbar-item{
@@ -263,7 +273,7 @@ $desktop: 960px + (2 * $gap) !default;
     }
     &.active{
       @include desktop(){
-        border-bottom:1px solid $secondary;
+        border-bottom:0px solid $secondary;
       }
     }
   }
@@ -357,5 +367,54 @@ $desktop: 960px + (2 * $gap) !default;
   width: 50%;
   @include touch() {
     width: 100%;
+  }
+}
+
+
+.masthead-container {
+  background-color: black;
+}
+
+.div-row {
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE10 */
+  flex-wrap: wrap;
+  padding: 0 4px;
+  margin: 0 auto;
+  max-width: 100%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+/* Create two equal columns that sits next to each other */
+.div-column {
+  -ms-flex: 50%; /* IE10 */
+  flex: 50%;
+  max-width: 100%;
+  padding: 50px 50px;
+}
+
+.div-column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 80%;
+}
+
+/* Responsive layout - makes a one column-layout instead of two columns */
+@media screen and (max-width: 800px) {
+  .div-column {
+    -ms-flex: 90%;
+    flex: 90%;
+    max-width: 90%;
+  }
+}
+
+/* Responsive layout - makes the columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .div-column {
+    -ms-flex: 90%;
+    flex: 90%;
+    max-width: 90%;
   }
 }

@@ -1,8 +1,8 @@
-title: Title
-title-abbreviated: Title
+title: DigiGov
+title-abbreviated: DigiGov
 description: >- # this means to ignore newlines until "baseurl:"
   Description
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://nlb-digigov-staging.netlify.com/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
@@ -17,7 +17,7 @@ plugins:
 # Breadcrumbs
 breadcrumbs:
   root:
-    hide: false  # show breadcrumbs on root/home page
+    hide: true  # show breadcrumbs on root/home page
     image: false # Show image or title text
 
 # Resource Room and Pagination
@@ -26,9 +26,6 @@ paginate: 12
 # Homepage sections
 homepage_hero_i_want_to: false
 homepage_resources: true
-
-# Feedback Form URL
-feedback_form_url: "https://form.sg/#!/forms/govtech/5a9ce876b3a3b6006e6b8335"
 
 # FAQ URL
 faq_url: "/faq/"
@@ -41,8 +38,13 @@ custom_print_css_path: "/assets/css/print.css"
 exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
 
 collections:
-  left-nav-one:
+  who-we-are:
     output: true
-  left-nav-two:
+  digigov-competition:
     output: true
+  services:
+    output: true
+
 resources_name: resource-room
+
+is_government: false
