@@ -11,53 +11,11 @@ html{
 body{
   color: white;
 }
-.masthead-container {
+.masthead-container{
   background-color: black;
 }
-// Navbar
 .navbar{
   background-color: black;
-  border-bottom: 0px solid $secondary;
-  &-start{
-    .navbar-item{
-      a{
-        &.active{
-          @include touch(){
-            border-bottom:0px solid $secondary;
-          }
-        }
-      }
-    }
-  }
-  .navbar-link:hover:after {
-    border-bottom: 0px solid $secondary;
-    border-left: 0px solid $secondary;
-  }
-
-  .navbar-item{
-    .sub-link.is-active{
-      color:$secondary;
-    }
-
-    .selector{
-      &.active{
-        background-color:$secondary;
-      }
-    }
-    &.active{
-      @include desktop(){
-        border-bottom:0px solid $secondary;
-      }
-    }
-  }
-.navbar-item:hover {
-  a {
-    color:$secondary;
-  }
-  .selector {
-      background-color:$secondary;
-    }
-  }
 }
 </style>
 
