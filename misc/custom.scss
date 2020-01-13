@@ -235,7 +235,7 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Navbar
 .navbar{
-  background-color: black;
+  background-color: white;
   border-bottom: 0px solid $secondary;
   &-start{
     .navbar-item{
