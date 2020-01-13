@@ -1,5 +1,5 @@
 ---
-layout: digigov-landing-page
+layout: homepage
 title: DigiGov
 permalink: /
 ---
