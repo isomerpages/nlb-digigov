@@ -32,14 +32,6 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
-html{
-  background-color: black;
-}
-
-body{
-  color: white;
-}
-
 // Background
 .bg{
   &-primary{
