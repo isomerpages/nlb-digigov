@@ -103,12 +103,12 @@ Email: <Charmaine_Tan@nlb.gov.sg>
 Senior Manager (Transformation Office) <br>
 Email: <Sung_Kuan@nlb.gov.sg>
 
-[### Annex A ###](#annex-a)
+### [Annex A](#annex-a) ###
 
 Examples of Government mobile applications or other Government Smart Nation digital platforms: <br>
 Please refer to <https://www.smartnation.sg/what-is-smart-nation/useful-apps> for examples. Others may also be used for the Contest.
 
-[### Annex B ###](#annex-b)
+### [Annex B](#annex-b) ###
 
 Examples of citizens that must be used for the Contest:
 
