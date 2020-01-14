@@ -113,4 +113,11 @@ Please refer to <https://www.smartnation.sg/what-is-smart-nation/useful-apps> fo
 Examples of citizens that must be used for the Contest:
 
 | Example | Brief Description (for reference only) |
-| The Plugged-in Student | * Studies in a Secondary or Tertiary institution * After-school time is either spent on CCA activities, project work, tuition or self-study (usually at the library) * Volunteers at organisations to clock Values-In-Action (VIA) hours – usually on weekends and during school holidays * Frequently on the smartphone and Internet * Plays mobile games * Cued in to trends |
+| The Plugged-in Student | 
+<ul>
+  <li>Studies in a Secondary or Tertiary institution</li>
+  <li>After-school time is either spent on CCA activities, project work, tuition or self-study (usually at the library)</li>
+  <li>Volunteers at organisations to clock Values-In-Action (VIA) hours – usually on weekends and during school holidays</li>
+  <li>Frequently on the smartphone and Internet</li>
+  <li>Plays mobile games * Cued in to trends</li>
+</ul> |
