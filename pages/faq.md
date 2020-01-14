@@ -24,8 +24,8 @@ NLB advisors or staff and their immediate family members, and any NLB vendors in
 Participants may take part in the Contest either as an individual or in teams of no more than 5 persons (with one person named the leader). Participants must shoot or create and edit the video on their own.
 
 Each video created must feature only:
-1. **one** type of Government mobile application or other Government Smart Nation digital platform (see **Annex A** for some examples but others may be used)
-2. **one** of the examples of a citizen (see **Annex B** for examples that must be used).
+1. **one** type of Government mobile application or other Government Smart Nation digital platform (see <a href="#annex-a">**Annex A**</a> for some examples but others may be used)
+2. **one** of the examples of a citizen (see <a href="#annex-b">**Annex B**</a> for examples that must be used).
 
 The video created:
 1. is to be between 30 and 60 seconds long.
@@ -95,20 +95,20 @@ Updates, if any, will be posted on the online entry form here: <https://go.gov.s
 
 For more information, please contact the following personnel:
 
-1. Ms. Charmaine Tan
-Assistant Manager (Transformation Office)
+1. Ms. Charmaine Tan <br>
+Assistant Manager (Transformation Office) <br>
 Email: <Charmaine_Tan@nlb.gov.sg>
 
-2. Mr. Sung Kuan
-Senior Manager (Transformation Office)
+2. Mr. Sung Kuan <br>
+Senior Manager (Transformation Office) <br>
 Email: <Sung_Kuan@nlb.gov.sg>
 
-### Annex A ###
+[### Annex A ###](#annex-a)
 
-Examples of Government mobile applications or other Government Smart Nation digital platforms:
+Examples of Government mobile applications or other Government Smart Nation digital platforms: <br>
 Please refer to <https://www.smartnation.sg/what-is-smart-nation/useful-apps> for examples. Others may also be used for the Contest.
 
-### Annex B ###
+[### Annex B ###](#annex-b)
 
 Examples of citizens that must be used for the Contest:
 
