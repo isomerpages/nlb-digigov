@@ -125,7 +125,65 @@ Examples of citizens that must be used for the Contest:
 				<li>After-school time is either spent on CCA activities, project work, tuition or self-study (usually at the library)</li>
 				<li>Volunteers at organisations to clock Values-In-Action (VIA) hours – usually on weekends and during school holidays</li>
 				<li>Frequently on the smartphone and Internet</li>
-				<li>Plays mobile games * Cued in to trends</li>
+				<li>Plays mobile games</li>
+				<li>Cued in to trends</li>
+			</ul>
+		</td>
+	</tr>
+	<tr>
+		<td>The Engaged Executive</td>
+		<td>
+			<ul>
+				<li>Works full-time (permanent, contract-based or short-term employment)</li>
+				<li>Takes public transport</li>
+				<li>Has free time after work on weekdays and during weekends</li>
+				<li>Partakes in physical activities</li>
+				<li>Travels frequently for leisure</li>
+				<li>Tries hand at minor investments</li>
+				<li>Consumes new media and is tech-savvy</li>
+			</ul>
+		</td>
+	</tr>
+	<tr>
+		<td>The Overwhelmed Parent</td>
+		<td>
+			<ul>
+				<li>Works full-time (permanent, contract-based or short-term employment)</li>
+				<li>Has at least 1 young child (from pre-school till upper primary age)</li>
+				<li>Takes public transport or drives a personal vehicle</li>
+				<li>Busy with chores after work on weekdays and during weekends</li>
+				<li>Ferries children to school and child-care centres</li>
+				<li>Not much free time for leisure</li>
+				<li>Consumes new media and is tech-savvy</li>
+			</ul>
+		</td>
+	</tr>
+	<tr>
+		<td>The Tireless Breadwinner</td>
+		<td>
+			<ul>
+				<li>Works full-time (office hours or in shifts)</li>
+				<li>Sole breadwinner of the family</li>
+				<li>Literate and able to speak both English and vernacular languages</li>
+				<li>Takes public transport</li>
+				<li>Attends work-related courses and workshops</li>
+				<li>Thrifty and seeks value for money</li>
+				<li>Consumes a mix of traditional and new media, and is relatively tech-savvy</li>
+			</ul>
+		</td>
+	</tr>
+	<tr>
+		<td>The Community-Centric Retiree</td>
+		<td>
+			<ul>
+				<li>Recent retiree and lives independently</li>
+				<li>Literate and able to speak both English and vernacular languages</li>
+				<li>Takes public transport</li>
+				<li>Takes care of grandchildren during weekdays, while family visits during weekends</li>
+				<li>Unless there is a compelling reason, will usually not venture out of immediate community</li>
+				<li>Participates in Senior Activity Centre or Community Centre programmes</li>
+				<li>Attends Digital Clinics to learn more about mobile apps and social media</li>
+				<li>Prefers to self-troubleshoot and is moderately tech-savvy – able to communicate over WhatsApp and use simple mobile apps</li>
 			</ul>
 		</td>
 	</tr>
