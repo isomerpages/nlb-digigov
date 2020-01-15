@@ -2,7 +2,7 @@ title: DigiGov
 title-abbreviated: DigiGov
 description: >- # this means to ignore newlines until "baseurl:"
   Description
-url: "https://nlb-digigov-staging.netlify.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://nlb-digigov-staging.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
@@ -25,7 +25,7 @@ paginate: 12
 
 # Homepage sections
 homepage_hero_i_want_to: false
-homepage_resources: true
+homepage_resources: false
 
 # FAQ URL
 faq_url: "/faq/"

@@ -32,14 +32,6 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
-html{
-  background-color: black;
-}
-
-body{
-  color: white;
-}
-
 // Background
 .bg{
   &-primary{
@@ -243,7 +235,7 @@ body{
 
 // Navbar
 .navbar{
-  background-color: black;
+  background-color: white;
   border-bottom: 0px solid $secondary;
   &-start{
     .navbar-item{
@@ -372,7 +364,7 @@ body{
 
 
 .masthead-container {
-  background-color: black;
+  background-color: white;
 }
 
 .div-row {

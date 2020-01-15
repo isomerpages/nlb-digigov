@@ -11,29 +11,17 @@ favicon: /images/favicon-digigov.ico
 agency-logo: /images/digigov-logo.png
 
 # Hero Banner
-hero-title: Hero title
-hero-subtitle: Hero subtitle
+hero-title: DigiNow Video Challenge
+hero-subtitle: Show off your video-making skills and win attractive cash prizes!
 hero-banner: /images/hero-banner.png
 
-#Call to Action Button
-button:
-  - text: Learn More
-    url: /who-we-are/
-    
 key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
-    url: https://google.com
-    external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
-    url: https://yahoo.com
-    external: true
-  - title: Page A
-    description: Page A is important too
-    url: /page-A/
-
-resources-title: Resources
-resources-subtitle: Be in the know
-resources-more-button: More Resources
-resources-more-button-url: resource-room/
+  - title: Submit your video
+    description: Submit a minute-long video
+    url: https://form.gov.sg/#!/5dc8f9f1a7b13e001241ab17
+  - title: Contest rules
+    description: Rules for DigiNow Video Challenge
+    url: /faq/
+  - title: Useful apps
+    description: Check out these government mobile apps
+    url: https://www.smartnation.sg/what-is-smart-nation/useful-apps
