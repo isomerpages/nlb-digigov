@@ -11,17 +11,22 @@ favicon: /images/favicon-digigov.ico
 agency-logo: /images/digigov-logo.png
 
 # Hero Banner
-hero-title: DigiNow Video Challenge
-hero-subtitle: Show off your video-making skills and win attractive cash prizes!
+hero-title: DigiNow Videos 
+hero-subtitle: Borrow books without having to queue? Look up your child’s upcoming immunisation? Locate the nearest car park and its parking rates?
 hero-banner: /images/hero-banner.png
 
-key-highlights:
-  - title: Submit your video
-    description: Submit a minute-long video
-    url: https://form.gov.sg/#!/5dc8f9f1a7b13e001241ab17
-  - title: Contest rules
-    description: Rules for DigiNow Video Challenge
-    url: /faq/
-  - title: Useful apps
-    description: Check out these government mobile apps
-    url: https://www.smartnation.sg/what-is-smart-nation/useful-apps
+# Call to Action Button
+button:
+  - text: View here
+    url: /pages/yipl-kiosk/
+
+#key-highlights:
+#  - title: Submit your video
+#    description: Submit a minute-long video
+#    url: https://form.gov.sg/#!/5dc8f9f1a7b13e001241ab17
+#  - title: Contest rules
+#    description: Rules for DigiNow Video Challenge
+#    url: /faq/
+#  - title: Useful apps
+#    description: Check out these government mobile apps
+#    url: https://www.smartnation.sg/what-is-smart-nation/useful-apps
