@@ -9,10 +9,8 @@ breadcrumb: OneService
 	<tbody>
 		<tr padding="1px" bg>
 			<td>
-				<img src="/images/logos/logo-oneservice.png" alt="OneService" style="width:100px;">
+				<img src="/images/logos/logo-oneservice.png" alt="OneService" style="width:100px;align:left;">
 			</td>
-		</tr>
-		<tr>
 			<td>
 				<h3>OneService</h3><i>Municipal Services Office</i>
 			</td>
