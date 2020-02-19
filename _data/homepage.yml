@@ -17,8 +17,8 @@ hero-banner: /images/hero-banner.png
 
 # Call to Action Button
 button:
-  - text: View here
-    url: /pages/yipl-kiosk/
+  - text: Useful government apps
+    url: /digigov/
 
 #key-highlights:
 #  - title: Submit your video
