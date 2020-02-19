@@ -26,17 +26,15 @@ What you can do with OneService:
 	Sorry, your browser doesn't support embedded videos.			
 </video>
 
-<br/><p/>
 Scan QR code to download:
-<br/><p/>
 
 <table width="100%">
 	<tbody>
-		<tr padding="1px">
+		<tr padding="1px" bg>
 			<td style="text-align:center"><img src="/images/qr-codes/qr-ios-oneservice.png" alt="ios oneservice app" style="width:150px;padding:5px;"></td>
 			<td style="text-align:center"><img src="/images/qr-codes/qr-android-oneservice.png" alt="android oneservice app" style="width:150px;padding:5px;"></td>
 		</tr>
-		<tr padding="1px">
+		<tr padding="1px" bgcolor="#000000">
 			<td style="text-align:center"><img src="/images/AppStore@3x.png" alt="ios app store" style="width:150px;padding:5px;"></td>
 			<td style="text-align:center"><img src="/images/PlayStore@3x-300x107.png" alt="android play store" style="width:150px;padding:5px;"></td>
 		</tr>
