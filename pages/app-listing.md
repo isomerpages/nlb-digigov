@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: DigiGov
+title: List of Government Mobile Apps
 permalink: /digigov/
 breadcrumb: DigiGov
 ---
@@ -37,6 +37,10 @@ breadcrumb: DigiGov
 	<div class="row is-multiline">
 		<div class="col is-one-third-desktop is-one-third-tablet">
 			<a href=""><img src="/images/logos/logo-oneservice.png" alt="oneservice" style="width:80%"></a>
+		</div>
+		<div class="col is-one-third-desktop is-one-third-tablet">
+		</div>
+		<div class="col is-one-third-desktop is-one-third-tablet">
 		</div>
 	</div>
 </div>
