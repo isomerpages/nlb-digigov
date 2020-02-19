@@ -5,8 +5,20 @@ permalink: /oneservice/
 breadcrumb: OneService
 ---
 
-<img src="/images/logos/logo-oneservice.png" alt="OneService" style="width:100px;align:left;">
-<h3>OneService</h3><i>Municipal Services Office</i>
+<table width="100%">
+	<tbody>
+		<tr padding="1px" bg>
+			<td>
+				<img src="/images/logos/logo-oneservice.png" alt="OneService" style="width:100px;">
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<h3>OneService</h3><i>Municipal Services Office</i>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 OneService provides a convenient channel to report municipal issues within Singapore. With the OneService app, municipal services can be delivered more effectively to improve the living environment for citizens.
 <p/><p/>
@@ -30,7 +42,7 @@ Scan QR code to download:
 
 <table width="100%">
 	<tbody>
-		<tr padding="1px" bg>
+		<tr padding="1px">
 			<td style="text-align:center"><img src="/images/qr-codes/qr-ios-oneservice.png" alt="ios oneservice app" style="width:150px;padding:5px;"></td>
 			<td style="text-align:center"><img src="/images/qr-codes/qr-android-oneservice.png" alt="android oneservice app" style="width:150px;padding:5px;"></td>
 		</tr>
