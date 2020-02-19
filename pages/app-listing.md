@@ -14,7 +14,7 @@ breadcrumb: DigiGov
 			<a href=""><img src="/images/logos/logo-mobile-hdb.png" alt="mobile@hdb" style="width:90%"></a>
 		</div>
 		<div class="col is-one-third-desktop is-one-third-tablet">
-			<a href=""><a href="/services/parkingsg"><img src="/images/logos/logo-parkingsg.png" alt="parking sg" style="width:90%"></a>
+			<a href=""><img src="/images/logos/logo-parkingsg.png" alt="parking sg" style="width:90%"></a>
 		</div>
 	</div>
 </div>
