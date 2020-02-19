@@ -5,7 +5,7 @@ permalink: /oneservice/
 breadcrumb: OneService
 ---
 
-<img src="/images/logos/logo-oneservice.png" alt="OneService" style="width:100px;">
+<img src="/images/logos/logo-oneservice.png" alt="OneService" style="width:100px;align:left;">
 <h3>OneService</h3><i>Municipal Services Office</i>
 
 OneService provides a convenient channel to report municipal issues within Singapore. With the OneService app, municipal services can be delivered more effectively to improve the living environment for citizens.
