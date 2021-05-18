@@ -1,9 +1,10 @@
 ---
-layout: leftnav-page-content
 title: OneService
 permalink: /oneservice/
 breadcrumb: OneService
+
 ---
+
 
 <table width="100%">
 	<tbody>
