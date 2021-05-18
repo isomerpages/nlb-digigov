@@ -1,7 +1,7 @@
 ---
-layout: leftnav-page-content
-title: Competition Themes
+title: 'Competition Themes'
 permalink: /digigov-competition/competition-themes/
-breadcrumb: Competition Themes
-collection_name: digigov-competition
+breadcrumb: 'Competition Themes'
+
 ---
+
