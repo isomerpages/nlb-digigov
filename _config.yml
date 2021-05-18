@@ -1,50 +1,45 @@
 title: DigiGov
 title-abbreviated: DigiGov
-description: >- # this means to ignore newlines until "baseurl:"
-  Description
-url: "https://nlb-digigov-staging.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
-
-# Build settings
-markdown: kramdown
-remote_theme: isomerpages/isomerpages-template
+description: Description
+url: 'https://nlb-digigov-staging.netlify.com'
+remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-
 plugins:
-  - jekyll-feed
-  - jekyll-assets
-  - jekyll-sitemap
-
-# Breadcrumbs
-breadcrumbs:
-  root:
-    hide: true  # show breadcrumbs on root/home page
-    image: false # Show image or title text
-
-# Resource Room and Pagination
+    - jekyll-feed
+    - jekyll-assets
+    - jekyll-paginate
+    - jekyll-sitemap
 paginate: 12
-
-# Homepage sections
-homepage_hero_i_want_to: false
-homepage_resources: false
-
-# FAQ URL
-faq_url: "/faq/"
-faq_url_external: false
-
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
-
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
-
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+exclude:
+    - travis-script.js
+    - .travis.yml
+    - README.md
+    - package.json
+    - package-lock.json
+    - node_modules
+    - vendor/bundle/
+    - vendor/cache/
+    - vendor/gems/
+    - vendor/ruby/
+    - Gemfile
+    - Gemfile.lock
 collections:
-  who-we-are:
-    output: true
-  digigov-competition:
-    output: true
-  services:
-    output: true
-
+    who-we-are:
+        output: true
+    digigov-competition:
+        output: true
+    services:
+        output: true
 resources_name: resource-room
-
 is_government: false
+favicon: /images/favicon-digigov.ico
+google_analytics: null
+permalink: none
+baseurl: ""
+defaults:
+    - scope:
+          path: ""
+      values:
+          layout: page
