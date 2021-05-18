@@ -1,9 +1,10 @@
 ---
-layout: leftnav-page-content
-title: List of Government Mobile Apps
+title: 'List of Government Mobile Apps'
 permalink: /digigov/
 breadcrumb: DigiGov
+
 ---
+
 
 <div>
 	<div class="row is-multiline">
