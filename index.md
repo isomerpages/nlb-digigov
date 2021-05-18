@@ -2,6 +2,13 @@
 layout: homepage
 title: DigiGov
 permalink: /
+sections:
+    - hero:
+          title: 'DigiGov Videos'
+          subtitle: 'Borrow books without having to queue? Look up your child’s upcoming immunisation? Locate the nearest car park and its parking rates?'
+          background: /images/hero-banner.png
+          button: 'Useful government apps'
+          url: /digigov/
+notification: "\n###### Submission deadline has been extended till 13 January 2020\n"
+
 ---
-<!-- Type your notification here - the notification bar will not appear if this is empty. For other changes, refer to _data/homepage.yml to edit the homepage -->
-###### Submission deadline has been extended till 13 January 2020
